@@ -18,7 +18,7 @@ int main() {
          scanf("%d", &mat[i][j]);
       }
    }
- 
+ ssdsd
    //Addition of all Diagonal Elements
    for (i = 0; i < row; i++) {
       for (j = 0; j < col; j++) {
