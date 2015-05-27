@@ -27,7 +27,7 @@ int main() {
       }
    }
  
-   //Print out the Result
+   //Print out the Resultsdsdsd
    printf("\nSum of Diagonal Elements in Matrix : %d", sum);
  
    return (1);
